@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CS61B-Tutonial.iml" filepath="$PROJECT_DIR$/CS61B-Tutonial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj0/proj0.iml" filepath="$PROJECT_DIR$/proj0/proj0.iml" />
     </modules>
   </component>
 </project>
